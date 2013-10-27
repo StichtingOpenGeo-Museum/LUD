@@ -43,15 +43,15 @@ treinserie,even,treinnummervan,treinummertot,geheelopgeheven,opgehevenvan,opgehe
 4900,false,4900,4999,true,,
 4900,true,4900,4999,true,,
 5000,false,5021,5075,false,gvc,ddr
-5000,false,5014,5068,false,ddr,gvc
+5000,true,5014,5068,false,ddr,gvc
 5700,false,5710,5761,false,ledn,gvc
 5700,false,5721,5775,false,gvc,ledn
 6100,false,6100,6199,true,,
 6100,true,6100,6199,true,,
 7400,false,7421,7431,false,asd,bkl
 7400,false,7459,7469,false,asd,bkl
-7400,false,7410,7422,false,bkl,asd
-7400,false,7448,7458,false,bkl,asd
+7400,true,7410,7422,false,bkl,asd
+7400,true,7448,7458,false,bkl,asd
 9700,false,9700,9799,true,,
 9700,true,9700,9799,true,,
 14100,false,14100,14199,true,,
@@ -59,7 +59,7 @@ treinserie,even,treinnummervan,treinummertot,geheelopgeheven,opgehevenvan,opgehe
 14500,false,14500,14599,true,,
 14500,false,14500,14599,true,,
 17400,false,17400,17499,true,,
-17400,false,17400,17499,true,,
+17400,true,17400,17499,true,,
 19500,false,19519,19531,false,ledn,apn
 19500,false,19553,19571,false,ledn,apn
 19500,true,19510,19522,false,apn,ledn
