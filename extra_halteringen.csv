@@ -1,0 +1,9 @@
+treinserie,even,treinnummervan,treinummertot,extrastop
+1500,true,1500,1599,zd
+1500,true,1500,1599,zd
+3000,true,3000,3999,db
+3000,false,3000,3999,db
+3000,true,3000,3999,hlo
+3000,false,3000,3999,hlo
+3000,true,3080,3082,asb
+3000,false,3087,3089,asb

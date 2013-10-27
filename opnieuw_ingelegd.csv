@@ -1,0 +1,5 @@
+treinserie,even,treinnummervan,treinummertot,alstreinnummervan,alstreinnummernaar,ingelegdvan,ingelegdnaar
+2600,true,2604,2674,102604,102674,rsd,vs
+2600,true,2627,2697,102627,102697,vs,rsd
+3500,true,3526,3599,103526,103599,hrl,std
+3500,false,3500,3557,103500,103557,std,hrl
