@@ -44,7 +44,7 @@ treinserie,even,treinnummervan,treinummertot,geheelopgeheven,opgehevenvan,opgehe
 4900,true,4900,4999,true,,
 5000,false,5021,5075,false,gvc,ddr
 5000,true,5014,5068,false,ddr,gvc
-5700,false,5710,5762,false,ledn,gvc
+5700,true,5710,5762,false,ledn,gvc
 5700,false,5721,5775,false,gvc,ledn
 6100,false,6100,6199,true,,
 6100,true,6100,6199,true,,
