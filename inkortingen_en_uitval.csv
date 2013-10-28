@@ -27,7 +27,6 @@ treinserie,even,treinnummervan,treinummertot,geheelopgeheven,opgehevenvan,opgehe
 2600,true,2604,2674,false,rsd,vs
 2600,false,2623,2625,false,bgn,rsd
 2600,false,2627,2697,false,vs,rsd
-12600,true,12684,12686,false,rsd,vs
 12600,false,12683,12687,false,vs,rsd
 3500,true,3502,3520,false,hrl,ut
 3500,true,3528,3558,false,hrl,ut
