@@ -34,7 +34,7 @@ treinserie,even,treinnummervan,treinummertot,geheelopgeheven,opgehevenvan,opgehe
 3500,false,3501,3557,false,ut,hrl
 3500,false,3565,3599,false,ut,hrl
 4300,true,4314,4320,false,hfd,ledn
-4300,false,4357,4399,false,hfd,ledn
+4300,false,4357,4399,false,ledn,hfd
 4300,false,4325,4331,false,ledn,hfd
 4300,false,4363,4367,false,ledn,hfd
 4700,false,4700,4799,true,,
